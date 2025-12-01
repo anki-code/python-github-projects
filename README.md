@@ -42,6 +42,7 @@ send me a pull request and follow the [contribution guide](https://github.com/ch
 * [Other](https://github.com/checkcheckzz/Python-open-projects/blob/master/Other.md)  
 * [Package Manager](https://github.com/checkcheckzz/Python-open-projects/blob/master/PackageManager.md)
 * [Science](https://github.com/checkcheckzz/Python-open-projects/blob/master/Science.md) 
+* [Shell](https://github.com/checkcheckzz/Python-open-projects/blob/master/Shell.md) 
 * [Static Web Generator](https://github.com/checkcheckzz/Python-open-projects/blob/master/StaticWebGenerator.md)  
 * [Testing](https://github.com/checkcheckzz/Python-open-projects/blob/master/Testing.md)
 * [Tools and Utilities](https://github.com/checkcheckzz/Python-open-projects/blob/master/ToolandUtilities.md)
